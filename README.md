@@ -35,15 +35,15 @@
 
 ### Screenshot Images
 
-<img src="https://user-images.githubusercontent.com/12752821/48365413-dd964900-e6d0-11e8-9c7b-1d04268dcd72.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 09 05" width="500">
+<img src="https://user-images.githubusercontent.com/12752821/48365413-dd964900-e6d0-11e8-9c7b-1d04268dcd72.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 09 05" width="400"> 
 
-<img src="https://user-images.githubusercontent.com/12752821/48365468-061e4300-e6d1-11e8-830d-43c65fbb25ed.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 09 05" width="500">
+<img src="https://user-images.githubusercontent.com/12752821/48365468-061e4300-e6d1-11e8-830d-43c65fbb25ed.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 09 05" width="400">
 
-<img src="https://user-images.githubusercontent.com/12752821/48365504-1e8e5d80-e6d1-11e8-888e-dc207f23c97a.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 09 38" width="500">
+<img src="https://user-images.githubusercontent.com/12752821/48365504-1e8e5d80-e6d1-11e8-888e-dc207f23c97a.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 09 38" width="400">
 
-<img src="https://user-images.githubusercontent.com/12752821/48365528-3239c400-e6d1-11e8-916f-8f9cddd80606.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 11 37" width="500">
+<img src="https://user-images.githubusercontent.com/12752821/48365528-3239c400-e6d1-11e8-916f-8f9cddd80606.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 11 37" width="400">
 
-<img src="https://user-images.githubusercontent.com/12752821/48365560-47165780-e6d1-11e8-9045-607c78616ba8.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 13 33" width="500">
+<img src="https://user-images.githubusercontent.com/12752821/48365560-47165780-e6d1-11e8-9045-607c78616ba8.png" alt="simulator screen shot - iphone xr - 2018-11-12 at 23 13 33" width="400">
 
 
 
